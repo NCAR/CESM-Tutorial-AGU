@@ -1,0 +1,73 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README
+
+chapters:
+- file: notebooks/01.Prerequisites/title.ipynb
+  sections:
+  - file: notebooks/01.Prerequisites/website.ipynb
+  - file: notebooks/01.Prerequisites/cloud.ipynb
+  - file: notebooks/01.Prerequisites/terminal.ipynb
+  - file: notebooks/01.Prerequisites/unix.ipynb
+  - file: notebooks/01.Prerequisites/nano.ipynb
+  - file: notebooks/01.Prerequisites/jupyter.ipynb
+
+- file: notebooks/02.CESM-basics/title.ipynb
+  sections:
+  - file: notebooks/02.CESM-basics/overview.ipynb
+  - file: notebooks/02.CESM-basics/create_newcase.ipynb
+  - file: notebooks/02.CESM-basics/setup_build_submit.ipynb
+  - file: notebooks/02.CESM-basics/exercise.ipynb
+
+- file: notebooks/03.Run-length/title.ipynb
+  sections:
+  - file: notebooks/03.Run-length/xml.ipynb
+  - file: notebooks/03.Run-length/run_length.ipynb
+  - file: notebooks/03.Run-length/resubmission.ipynb  
+  - file: notebooks/03.Run-length/exercise1.ipynb
+  - file: notebooks/03.Run-length/statistics.ipynb  
+  - file: notebooks/03.Run-length/exercise2.ipynb
+
+- file: notebooks/05.Output/title.ipynb
+  sections:
+  - file: notebooks/05.Output/overview.ipynb
+  - file: notebooks/05.Output/exercise.ipynb
+
+- file: notebooks/06.Namelist/title.ipynb
+  sections:
+  - file: notebooks/06.Namelist/overview.ipynb
+  - file: notebooks/06.Namelist/exercise1.ipynb
+  - file: notebooks/06.Namelist/documentation
+  - file: notebooks/06.Namelist/output/output_cam
+  - file: notebooks/06.Namelist/exercise2
+
+- file: notebooks/07.Troubleshoot/title.ipynb
+  sections:
+  - file: notebooks/07.Troubleshoot/overview.ipynb
+  - file: notebooks/07.Troubleshoot/exercise.ipynb
+
+- file: notebooks/08.SourceMods/title.ipynb
+  sections:
+  - file: notebooks/08.SourceMods/overview
+  - file: notebooks/08.SourceMods/add_fields_cam
+  - file: notebooks/08.SourceMods/exercise
+
+- file: notebooks/09.Runtype/title.ipynb
+  sections:
+  - file: notebooks/09.Runtype/overview.ipynb
+  - file: notebooks/09.Runtype/exercise.ipynb
+
+- file: notebooks/10.Community-runs/title.ipynb
+  sections:
+  - file: notebooks/10.Community-runs/getting_help.ipynb
+  - file: notebooks/10.Community-runs/workinggroups.ipynb
+  - file: notebooks/10.Community-runs/CESMsimulations.ipynb
+
+- file: notebooks/11.LE-analysis/title.ipynb
+  sections:
+  - file: notebooks/11.LE-analysis/overview.ipynb
+  - file: notebooks/11.LE-analysis/exercise.ipynb
+  
+- file: notebooks/12.Info-organizers/title.ipynb  
