@@ -1,15 +1,15 @@
-# [CESM Tutorial at WCRP](https://ncar.github.io/CESM-Tutorial-WCRP/README.html)
+# [CESM Tutorial at AGU](https://ncar.github.io/CESM-Tutorial-AGU/README.html)
 
-**Time**: Tuesday 24th and Wednesday 25th  from 19:00-22:00
+**Time**: Dec 10, 2024
 
-**Location**: room AD1
+**Location**: 
 ___
 
 [![WCRP logo](images/logo_WCRP.png)](https://wcrp-osc2023.org/)
 ___
 
 ### Planning committee
-Alicia Karspeck, Brian Dobbins, Cecile Hannay, and Isla Simpson 
+Cecile Hannay, Isla Simpson, and Brian Dobbins
 
 ### Purpose
 
