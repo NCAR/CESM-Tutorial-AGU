@@ -1,8 +1,8 @@
 # [CESM Tutorial at AGU](https://ncar.github.io/CESM-Tutorial-AGU/README.html)
 
-**Time**: Dec 10, 2024
+**Time**: Dec 10, 2024, 14:00-17:30
 
-**Location**: 
+**Location**: 3016 - West (Level 3, West, MC)
 ___
 
 [![AGU logo](images/AGU_logo.png)](https://agu.org/fall-meeting)
@@ -18,9 +18,6 @@ The Community Earth System Model (CESM) version 2, is a state-of-the-art global 
 This workshop is intended for new users of the Community Earth System Model v2 (CESM2) who are interested in an introduction to its capabilities.  We will provide attendees with the basic building blocks for use of the model as an earth system science research tool. This will be achieved through a hands-on interactive tutorial on running and configuring CESM2 on the Amazon Web Services (AWS) cloud.
 
 ### Agenda
-
-TBD
-
-- 			
+	
 
 
