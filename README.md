@@ -5,7 +5,7 @@
 **Location**: 
 ___
 
-[![WCRP logo](images/logo_WCRP.png)](https://wcrp-osc2023.org/)
+[![WCRP logo](images/logo_AGU.png)](https://agu.org/fall-meeting)
 ___
 
 ### Planning committee
