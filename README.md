@@ -1,6 +1,6 @@
 # [CESM Tutorial at AGU](https://ncar.github.io/CESM-Tutorial-AGU/README.html)
 
-**Time**: Dec 10, 2024, 14:00-17:30
+**Time**: Dec 10, 2024, 13:00-16:30 PST
 
 **Location**: 3016 - West (Level 3, West, MC)
 ___
