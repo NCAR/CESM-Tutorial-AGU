@@ -1,8 +1,8 @@
 # [CESM Tutorial at AGU](https://ncar.github.io/CESM-Tutorial-AGU/README.html)
 
-**Time**: Dec 10, 2023, 13:00-16:30 PST
+**Time**: Dec 8, 2024,  08:30 - 12:00 
 
-**Location**: 3016 - West (Level 3, West, MC)
+**Location**: Independence A-C (Marriott Marquis)
 ___
 
 [![AGU logo](images/AGU_logo.png)](https://agu.org/fall-meeting)
