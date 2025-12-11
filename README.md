@@ -1,8 +1,8 @@
 # [CESM Tutorial at AGU](https://ncar.github.io/CESM-Tutorial-AGU/README.html)
 
-**Time**: Dec 8, 2024,  08:30 - 12:00 
+**Time**: Wednesday, 12/17/2025; 13:00 – 16:30 PM CST
 
-**Location**: Independence A-C (Marriott Marquis)
+**Location**: New Orleans Ernest N. Morial Convention Center, Room 335-336
 ___
 
 [![AGU logo](images/AGU_logo.png)](https://agu.org/fall-meeting)
