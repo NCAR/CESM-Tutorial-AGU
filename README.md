@@ -5,7 +5,7 @@
 **Location**: New Orleans Ernest N. Morial Convention Center, Room 335-336
 ___
 
-[![CESM logo](images/CESM_logo.png)]
+![CESM logo](images/CESM_logo.png)]
 ___
 
 ### Planning committee
