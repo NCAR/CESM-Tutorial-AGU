@@ -17,7 +17,6 @@ The Community Earth System Model (CESM) version 2, is a state-of-the-art global 
 
 This workshop is intended for new users of the Community Earth System Model v2 (CESM2) who are interested in an introduction to its capabilities.  We will provide attendees with the basic building blocks for use of the model as an earth system science research tool. This will be achieved through a hands-on interactive tutorial on running and configuring CESM2 on the Amazon Web Services (AWS) cloud.
 
-### Agenda
-	
+
 
 
