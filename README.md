@@ -5,7 +5,7 @@
 **Location**: New Orleans Ernest N. Morial Convention Center, Room 335-336
 ___
 
-[![AGU logo](images/AGU_logo.png)](https://agu.org/fall-meeting)
+[![CESM logo](images/CESM_logo.png)]
 ___
 
 ### Planning committee
