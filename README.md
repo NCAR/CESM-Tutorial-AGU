@@ -2,7 +2,7 @@
 
 **Time**: Wednesday, 12/17/2025; 13:00 – 16:30 PM CST
 
-**Location**: New Orleans Ernest N. Morial Convention Center, Room 335-336
+**Location**: New Orleans Ernest N. Morial Convention Center, Room 335-336.
 ___
 
 ![CESM logo](images/CESM_logo.png)
