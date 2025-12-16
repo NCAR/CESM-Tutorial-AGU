@@ -18,12 +18,12 @@ jobs:
       run: |
         sudo apt-get install python3-pip
         pip install ghp-import
-        pip install jupyter-book
+        pip install "jupyter-book<2"
         PATH="${PATH}:${HOME}/.local/bin"
     - name: Build book HTML
       run: |
         rm -rf _build
-        jupyter-book build . --verbose
+        jupyter-book build .
     - name: Push _build/html to gh-pages
       run: |
         sudo chown -R $(whoami):$(whoami) .
