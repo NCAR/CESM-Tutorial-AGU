@@ -22,7 +22,8 @@ jobs:
         PATH="${PATH}:${HOME}/.local/bin"
     - name: Build book HTML
       run: |
-        jupyter-book build .
+        rm -rf _build
+        jupyter-book build . --verbose
     - name: Push _build/html to gh-pages
       run: |
         sudo chown -R $(whoami):$(whoami) .
