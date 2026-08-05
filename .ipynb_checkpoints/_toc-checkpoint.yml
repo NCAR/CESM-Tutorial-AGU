@@ -73,7 +73,9 @@ parts:
     - file: notebooks/11.LE-analysis/overview.ipynb
     - file: notebooks/11.LE-analysis/exercise.ipynb
 
-- caption: Additional information
+ - caption: Additional information
   chapters:
-  - file: notebooks/12.Info-organizers/title.ipynb
   - file: notebooks/13.Presentations/title.ipynb
+  - url: https://ncar.github.io/CESM-Tutorial/README.html
+    title: Full CESM Tutorial webpage
+  - file: notebooks/12.Info-organizers/title.ipynb 
