@@ -39,9 +39,9 @@ chapters:
   sections:
   - file: notebooks/06.Namelist/overview.ipynb
   - file: notebooks/06.Namelist/exercise1.ipynb
-  - file: notebooks/06.Namelist/documentation
-  - file: notebooks/06.Namelist/output/output_cam
-  - file: notebooks/06.Namelist/exercise2
+  - file: notebooks/06.Namelist/documentation.ipynb
+  - file: notebooks/06.Namelist/output/output_cam.ipynb
+  - file: notebooks/06.Namelist/exercise2.ipynb
 
 - file: notebooks/07.Troubleshoot/title.ipynb
   sections:
@@ -50,9 +50,9 @@ chapters:
 
 - file: notebooks/08.SourceMods/title.ipynb
   sections:
-  - file: notebooks/08.SourceMods/overview
-  - file: notebooks/08.SourceMods/add_fields_cam
-  - file: notebooks/08.SourceMods/exercise
+  - file: notebooks/08.SourceMods/overview.ipynb
+  - file: notebooks/08.SourceMods/add_fields_cam.ipynb
+  - file: notebooks/08.SourceMods/exercise.ipynb
 
 - file: notebooks/09.Runtype/title.ipynb
   sections:
