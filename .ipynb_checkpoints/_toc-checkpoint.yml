@@ -73,7 +73,7 @@ parts:
     - file: notebooks/11.LE-analysis/overview.ipynb
     - file: notebooks/11.LE-analysis/exercise.ipynb
 
- - caption: Additional information
+- caption: Additional materials
   chapters:
   - file: notebooks/13.Presentations/presentations.ipynb
   - file: notebooks/13.Presentations/full_tutorial.ipynb
