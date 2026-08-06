@@ -76,6 +76,6 @@ parts:
  - caption: Additional information
   chapters:
   chapters:
-  - file: notebooks/13.Presentations/title.ipynb
-  - file: notebooks/13.Presentations/full_tutorial.md
+  - file: notebooks/13.Presentations/presentations.ipynb
+  - file: notebooks/13.Presentations/full_tutorial.ipynb
   - file: notebooks/12.Info-organizers/title.ipynb
