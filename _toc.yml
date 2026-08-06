@@ -75,7 +75,7 @@ parts:
 
  - caption: Additional information
   chapters:
+  chapters:
   - file: notebooks/13.Presentations/title.ipynb
-  - url: https://ncar.github.io/CESM-Tutorial/README.html
-    title: Full CESM Tutorial webpage
-  - file: notebooks/12.Info-organizers/title.ipynb 
+  - file: notebooks/13.Presentations/full_tutorial.md
+  - file: notebooks/12.Info-organizers/title.ipynb
