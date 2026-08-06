@@ -60,6 +60,7 @@ parts:
   - file: notebooks/09.Runtype/title.ipynb
     sections:
     - file: notebooks/09.Runtype/overview.ipynb
+    - file: notebooks/09.Runtype/exercise.ipynb
 
   - file: notebooks/10.Community-runs/title.ipynb
     sections:
